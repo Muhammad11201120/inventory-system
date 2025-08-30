@@ -1,0 +1,32 @@
+export default {
+  common: {
+    dashboard: 'Dashboard',
+    products: 'Products',
+    categories: 'Categories',
+    units: 'Units',
+    warehouses: 'Warehouses',
+    suppliers: 'Suppliers',
+    customers: 'Customers',
+    purchases: 'Purchases',
+    sales: 'Sales',
+    transfers: 'Transfers',
+    stockCounts: 'Stock Counts',
+    adjustments: 'Adjustments',
+    reports: 'Reports',
+    settings: 'Settings',
+    mainMenu: 'Main Menu',
+    dailySales: 'Daily Sales',
+    monthlySales: 'Monthly Sales',
+    profitLoss: 'Profit & Loss',
+    productMovement: 'Product Movement',
+    documents: 'Documentation',
+    help: 'Help',
+    language: 'Language',
+    theme: 'Theme',
+    light: 'Light',
+    dark: 'Dark',
+    system: 'System',
+  },
+} as const;
+
+
